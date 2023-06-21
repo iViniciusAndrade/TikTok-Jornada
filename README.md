@@ -3,8 +3,8 @@
 Foi Utilizado: Html, Css, Javascript e React Neste Projeto
 
 ## Scripts disponíveis
-Link do projeto Online: bit.ly/Tiktok-Jornada
-![QR Code do Projeto](https://firebasestorage.googleapis.com/v0/b/tiktok------jornada.appspot.com/o/QR%20Code%20Jornada%20Tiktok.png?alt=media&token=263abecc-fe95-48df-9df4-b1f3ccbc3205)
+Link do projeto Online:![Clique Aqui](bit.ly/Tiktok-Jornada) 
+![QR Code do Projeto](https://firebasestorage.googleapis.com/v0/b/tiktok------jornada.appspot.com/o/QR%20Code%20Jornada%20Tiktok.png?alt=media&token=98e46bb3-05a5-480b-81b1-50b4aa92d152)
 
 
 
